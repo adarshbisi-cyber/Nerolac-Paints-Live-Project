@@ -22,8 +22,8 @@ The study analyses the Indian paint and coatings industry across eight structure
 
 | File | Description |
 |------|-------------|
-| `Paint_Industry_Report.docx` | Full consulting-grade industry research report (~12,000+ words) |
-| `Live_Project_Presentation.pdf` | Final 21-slide presentation deck |
+| `Future of Paint Industry : Group Future` | Full consulting-grade industry research report (~12,000+ words) |
+| `Group Future Presentation` | Final 21-slide presentation deck |
 
 ---
 
